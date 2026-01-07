@@ -1,0 +1,14 @@
+{
+  "vars_artigo": [
+  "Age",
+  "Gender (male=1)",
+  "Diabetes (yes=1)",
+  "NYHA class",
+  "HF etiology - Diagnosis",
+  "ACE inhibitor (yes=1)",
+  "Betablockers (yes=1)",
+  "Amiodarone (yes=1)",
+  "Q-waves (necrosis, yes=1)",
+  "QRS > 120 ms ",
+  "Non-sustained ventricular tachycardia (CH>10)"]
+}
